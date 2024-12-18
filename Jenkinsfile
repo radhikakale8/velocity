@@ -18,7 +18,7 @@ pipeline {
 
 
                               echo 'hello master'
-                              sleep 10
+                              sleep 5
                                         }
 										
 
